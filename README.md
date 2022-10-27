@@ -1,8 +1,8 @@
 <div align="center">
   <img src="https://s2.loli.net/2022/10/27/l47ARZE1CKPecmV.png" width="120"/>
-  <h1 style="border-bottom:0">
+  <h1 style="border-bottom:0 !important;">
     <p>伴舟录屏</p>
-    <span style="font-size:10px;">轻量录屏工具</span>
+    <span style="font-size:10px !important;">轻量录屏工具</span>
   </h1>
 </div>
 
