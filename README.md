@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://s2.loli.net/2022/10/27/BSjtrwK7Auc6sEg.png" />
+  <img src="https://files.catbox.moe/yb4s71.png" />
 </div>
 
 ### 效果预览 😀
