@@ -9,7 +9,7 @@
 
 ### 效果预览 😀
 <div align="left">
-  <img src="https://files.catbox.moe/undkil.png" width="70%"/>
+  <img src="https://files.catbox.moe/qs8z4z.gif" width="80%"/>
 </div>
 
 ### 安装依赖 🔑
