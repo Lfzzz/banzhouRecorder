@@ -8,7 +8,7 @@
 ***
 
 ### 效果预览 😀
-![](https://files.catbox.moe/qs8z4z.gif)
+![](https://github.com/Lfzzz/banzhouRecorder/blob/master/README/pre.gif)
 
 ### 安装依赖 🔑
 
@@ -33,4 +33,9 @@ yarn run electron:build
 - electron 版本 **v13.0.0**
 - node 版本 **v16.17.0**  
 - node-sass 版本 **v6.0.1**
-- sass-loader 版本** v10.2.0**
+- sass-loader 版本 **v10.2.0**
+<h1></h1>
+
+### 更多功能待更新 💫
+
+❤️制作不易，点亮 🌟**Star** 支持一下吧✌🏻
