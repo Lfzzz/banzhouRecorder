@@ -33,4 +33,4 @@ yarn run electron:build
 - electron 版本 **v13.0.0**
 - node 版本 **v16.17.0**  
 - node-sass 版本 **v6.0.1**
-- sass-loader 版本** v10.2.0**
+- sass-loader 版本 **v10.2.0**
