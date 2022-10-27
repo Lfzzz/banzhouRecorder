@@ -6,8 +6,6 @@
   </h1>
 </div>
 
-***
-
 ### 效果预览
 
 <br/>
@@ -23,8 +21,6 @@ yarn install
 ```
 yarn run electron:serve
 ```
-
-***
 
 ### 环境问题
 
