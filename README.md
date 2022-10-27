@@ -8,7 +8,7 @@
 ***
 
 ### 效果预览 😀
-![](https://files.catbox.moe/qs8z4z.gif)
+![](https://github.com/Lfzzz/banzhouRecorder/blob/master/README/pre.gif)
 
 ### 安装依赖 🔑
 
