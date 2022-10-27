@@ -8,9 +8,7 @@
 ***
 
 ### 效果预览 😀
-<div align="left">
-  <img src="https://files.catbox.moe/qs8z4z.gif" width="80%"/>
-</div>
+![](https://files.catbox.moe/qs8z4z.gif)
 
 ### 安装依赖 🔑
 
