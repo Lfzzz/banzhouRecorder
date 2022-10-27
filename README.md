@@ -4,6 +4,10 @@
   <img src="https://files.catbox.moe/yb4s71.png" />
 </div>
 &emsp;
+<div align="center" >
+  <a href="https://github.com/Lfzzz/banzhouRecorder/blob/master/builder/%E4%BC%B4%E8%88%9F%E5%BD%95%E5%B1%8Fv1.0.exe">✨下载安装包✨</a>
+</div>
+&emsp;
 
 ***
 
@@ -22,11 +26,18 @@ yarn install
 yarn run electron:serve
 ```
 
-### 项目打包 📦 (配合 Inno Setup 可实现安装包界面自定义)
+### 项目打包 📦
 
 ```
 yarn run electron:build
 ```
+
+### Inno Setup 自定义安装包相关 😮
+- 自定义安装包资源以及代码保存在 [builder](https://github.com/Lfzzz/banzhouRecorder/tree/master/builder) 路径下
+- [mh2](https://github.com/Lfzzz/banzhouRecorder/tree/master/builder/mh2) 图片资源以及使用到的dll资源
+- [setupScript.iss](https://github.com/Lfzzz/banzhouRecorder/blob/master/builder/setupScript.iss) 代码文件 😬 注意相关路径
+
+
 
 ### 环境问题 😮
 
@@ -38,4 +49,4 @@ yarn run electron:build
 
 ### 更多功能待更新 💫
 
-❤️制作不易，点亮 🌟**Star** 支持一下吧✌🏻
+❤️制作不易，点亮 🌟**Star** 支持一下吧✌
