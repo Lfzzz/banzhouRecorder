@@ -1,0 +1,217 @@
+.page-wrapper {
+  width: 100%;
+  height: 100%;
+  position: relative;
+}
+
+.animate__animated.animate__delay-2 {
+  -webkit-animation-delay: 0.1s !important;
+  animation-delay: 0.1s !important;
+  -webkit-animation-delay: 0.1s !important;
+  animation-delay: 0.1s !important;
+}
+
+.animate__animated.animate__delay-2 {
+  -webkit-animation-delay: 0.2s !important;
+  animation-delay: 0.2s !important;
+  -webkit-animation-delay: 0.2s !important;
+  animation-delay: 0.2s !important;
+}
+
+.animate__animated.animate__delay-3 {
+  -webkit-animation-delay: 0.3s !important;
+  animation-delay: 0.3s !important;
+  -webkit-animation-delay: 0.3s !important;
+  animation-delay: 0.3s !important;
+}
+
+.animate__animated.animate__fast2 {
+  -webkit-animation-duration: 0.6s;
+  animation-duration: 0.6s;
+  -webkit-animation-duration: 0.6s;
+  animation-duration: 0.6s;
+}
+
+.animate__animated.animate__fast3 {
+  -webkit-animation-duration: 0.3s;
+  animation-duration: 0.3s;
+  -webkit-animation-duration: 0.3s;
+  animation-duration: 0.3s;
+}
+
+.dialog .c-scrollbar-wrap {
+  padding: 15px 20px 5px 20px !important;
+}
+
+.g-relative {
+  position: relative;
+}
+
+.g-hidden {
+  overflow: hidden;
+}
+
+.maskShow {
+  opacity: 1 !important;
+  transition: ease-in-out .6s;
+}
+
+.maskOut {
+  opacity: 0;
+  transition: ease-in-out .9s;
+}
+
+.myBtn_default {
+  width: 94px;
+  height: 38px;
+  background: #A5ADF6 !important;
+  border-radius: 8px;
+  font-size: 15px;
+  transition: .1s;
+  position: relative;
+  box-shadow: 0 2px 8px #A5ADF6 !important;
+}
+
+.myBtn_default:active::before {
+  transition: 0s;
+  background-size: 10% 10%, 20% 20%, 15% 15%, 20% 20%, 18% 18%, 10% 10%, 15% 15%, 10% 10%, 18% 18%,
+    15% 15%, 20% 20%, 18% 18%, 20% 20%, 15% 15%, 10% 10%, 20% 20%;
+  background-position: 18% 40%, 20% 31%, 30% 30%, 40% 30%, 50% 30%, 57% 30%, 65% 30%, 80% 32%, 15% 60%,
+    83% 60%, 18% 70%, 25% 70%, 41% 70%, 50% 70%, 64% 70%, 80% 71%;
+}
+
+.myBtn_default:active {
+  transition: .1s;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0);
+  transform: translateY(3px);
+}
+
+.myBtn_red {
+  width: 94px;
+  height: 38px;
+  background: #FC9090 !important;
+  border-radius: 8px;
+  font-size: 15px;
+  transition: .1s;
+  position: relative;
+  box-shadow: 0 2px 8px #FC9090 !important;
+}
+
+.myBtn_red:active::before {
+  transition: 0s;
+  background-size: 10% 10%, 20% 20%, 15% 15%, 20% 20%, 18% 18%, 10% 10%, 15% 15%, 10% 10%, 18% 18%,
+    15% 15%, 20% 20%, 18% 18%, 20% 20%, 15% 15%, 10% 10%, 20% 20%;
+  background-position: 18% 40%, 20% 31%, 30% 30%, 40% 30%, 50% 30%, 57% 30%, 65% 30%, 80% 32%, 15% 60%,
+    83% 60%, 18% 70%, 25% 70%, 41% 70%, 50% 70%, 64% 70%, 80% 71%;
+}
+
+.myBtn_red:active {
+  transition: .1s;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0);
+  transform: translateY(3px);
+}
+
+.myBtn_left {
+  width: 94px;
+  height: 38px;
+  background: #fabe46 !important;
+  border-radius: 8px;
+  font-size: 15px;
+  transition: .1s;
+  position: relative;
+  box-shadow: 0 2px 8px #fabe46 !important;
+}
+
+.myBtn_left:active::before {
+  transition: 0s;
+  background-size: 10% 10%, 20% 20%, 15% 15%, 20% 20%, 18% 18%, 10% 10%, 15% 15%, 10% 10%, 18% 18%,
+    15% 15%, 20% 20%, 18% 18%, 20% 20%, 15% 15%, 10% 10%, 20% 20%;
+  background-position: 18% 40%, 20% 31%, 30% 30%, 40% 30%, 50% 30%, 57% 30%, 65% 30%, 80% 32%, 15% 60%,
+    83% 60%, 18% 70%, 25% 70%, 41% 70%, 50% 70%, 64% 70%, 80% 71%;
+}
+
+.myBtn_left:active {
+  transition: .1s;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0);
+  transform: translateY(3px);
+}
+
+
+.myBtn {
+  width: 80px;
+  height: 38px;
+  background: #5a7ce4;
+  border-radius: 8px;
+  font-size: 15px;
+  transition: .1s;
+  position: relative;
+  box-shadow: 0 2px 8px #5a7ce4;
+}
+
+.myBtn::after {
+  content: '';
+  height: 100%;
+  width: 100%;
+  background: rgba(255, 255, 255, 0);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  border-radius: 8px;
+  transition: ease-out .3s;
+}
+
+.myBtn:hover::after {
+  background: rgba(255, 255, 255, .15);
+}
+
+.myBtn::before {
+  position: absolute;
+  content: '';
+  left: -1.5em;
+  right: -1.5em;
+  top: -1.5em;
+  bottom: -1.5em;
+  pointer-events: none;
+  background-repeat: no-repeat;
+  background-image: radial-gradient(circle, #5a7ce4 20%, transparent 20%),
+    radial-gradient(circle, #5a7ce4 20%, transparent 20%),
+    radial-gradient(circle, #5a7ce4 20%, transparent 20%),
+    radial-gradient(circle, #5a7ce4 20%, transparent 20%),
+    radial-gradient(circle, #5a7ce4 20%, transparent 20%),
+    radial-gradient(circle, #5a7ce4 20%, transparent 20%),
+    radial-gradient(circle, #5a7ce4 20%, transparent 20%),
+    radial-gradient(circle, #5a7ce4 20%, transparent 20%),
+    radial-gradient(circle, #5a7ce4 20%, transparent 20%),
+    /*  */
+    radial-gradient(circle, #5a7ce4 20%, transparent 20%),
+    radial-gradient(circle, #5a7ce4 20%, transparent 20%),
+    radial-gradient(circle, #5a7ce4 20%, transparent 20%),
+    radial-gradient(circle, #5a7ce4 20%, transparent 20%),
+    radial-gradient(circle, #5a7ce4 20%, transparent 20%),
+    radial-gradient(circle, #5a7ce4 20%, transparent 20%),
+    radial-gradient(circle, #5a7ce4 20%, transparent 20%);
+  background-position: 5% 44%, -5% 20%, 7% 5%, 23% 0%, 37% 0, 58% -2%, 80% 0%, 100% -2%, -5% 80%,
+    100% 55%, 2% 100%, 23% 100%, 42% 100%, 60% 95%, 70% 96%, 100% 100%;
+  background-size: 0% 0%;
+  transition: background-position .5s ease-in-out, background-size .75s ease-in-out;
+}
+
+.myBtn:active::before {
+  transition: 0s;
+  background-size: 10% 10%, 20% 20%, 15% 15%, 20% 20%, 18% 18%, 10% 10%, 15% 15%, 10% 10%, 18% 18%,
+    15% 15%, 20% 20%, 18% 18%, 20% 20%, 15% 15%, 10% 10%, 20% 20%;
+  background-position: 18% 40%, 20% 31%, 30% 30%, 40% 30%, 50% 30%, 57% 30%, 65% 30%, 80% 32%, 15% 60%,
+    83% 60%, 18% 70%, 25% 70%, 41% 70%, 50% 70%, 64% 70%, 80% 71%;
+}
+
+.myBtn:active {
+  transition: .1s;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0);
+  transform: translateY(3px);
+}
+
+.tag {
+  background: #e7e7e7;
+  padding: 2px 6px;
+  border-radius: 5px;
+}
