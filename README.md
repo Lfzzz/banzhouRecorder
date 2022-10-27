@@ -2,10 +2,9 @@
   <img src="https://s2.loli.net/2022/10/27/l47ARZE1CKPecmV.png" width="100"/>
   <h1 style="border-bottom:0">
     <p>伴舟录屏</p>
-    <p style="font-size:20px">轻量录屏工具</p>
+    <p style="font-size:14px">轻量录屏工具</p>
   </h1>
 </div>
-<br/>
 
 ***
 
