@@ -1,24 +1,35 @@
-# bzlp1
+<div align="center">
+  <img src="https://s2.loli.net/2022/10/27/l47ARZE1CKPecmV.png" width="100"/>
+  <h1 style="border-bottom:0">
+    <p>伴舟录屏</p>
+    <p style="font-size:20px">轻量录屏工具</p>
+  </h1>
+</div>
+<br/>
 
-## Project setup
+***
+
+### 效果预览
+
+<br/>
+
+### 安装依赖
+
 ```
 yarn install
 ```
 
-### Compiles and hot-reloads for development
+### 愉快开始
+
 ```
-yarn serve
+yarn run electron:serve
 ```
 
-### Compiles and minifies for production
-```
-yarn build
-```
+***
 
-### Lints and fixes files
-```
-yarn lint
-```
+### 环境问题
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- electron 版本 **v13.0.0**
+- node 版本 **v16.17.0**  
+- node-sass 版本 **v6.0.1**
+- sass-loader 版本 **v10.2.0
