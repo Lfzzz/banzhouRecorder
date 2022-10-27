@@ -32,7 +32,7 @@ yarn run electron:serve
 yarn run electron:build
 ```
 
-### Inno Setup 自定义安装包相关 😮
+### Inno Setup 自定义安装包相关 🎁
 - 自定义安装包资源以及代码保存在 [builder](https://github.com/Lfzzz/banzhouRecorder/tree/master/builder) 路径下
 - [mh2](https://github.com/Lfzzz/banzhouRecorder/tree/master/builder/mh2) 图片资源以及使用到的dll资源
 - [setupScript.iss](https://github.com/Lfzzz/banzhouRecorder/blob/master/builder/setupScript.iss) 代码文件 😬 注意相关路径
